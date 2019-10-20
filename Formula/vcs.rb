@@ -1,8 +1,8 @@
 class Vcs < Formula
   desc "Creates video contact sheets (previews) of videos"
   homepage "https://p.outlyer.net/vcs/"
-  url "https://p.outlyer.net/vcs/files/vcs-1.13.2.tar.gz"
-  sha256 "fc2a2b3994d5ffb5d87fb3dceaa5f6855aca7a89c58533b12fd11b8fb5b623af"
+  url "https://p.outlyer.net/vcs/files/vcs-1.13.3.tar.gz"
+  sha256 "d27147dd515588123f78ee536b01f1ec51a2ec422f21473b2b9430a64166e7cc"
 
   bottle do
     cellar :any_skip_relocation
